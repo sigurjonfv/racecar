@@ -1,0 +1,9 @@
+To run ValueIteration:
+./build left.track.improved
+
+To run QLearning with a linear function:
+./build2
+
+To run QLearning with a neural network:
+sudo apt-get install libfann2 libfann-dev
+./build3
